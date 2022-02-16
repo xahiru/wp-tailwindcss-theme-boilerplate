@@ -1,6 +1,6 @@
 <?php
 
-namespace WpTailwindCssThemeBoilerplate;
+namespace twenty_four;
 
 /**
  * PSR4 Autoloader implementation that includes the optional

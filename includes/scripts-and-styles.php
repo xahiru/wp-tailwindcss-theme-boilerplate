@@ -1,6 +1,6 @@
 <?php
 
-use WpTailwindCssThemeBoilerplate\AssetResolver;
+use twenty_four\AssetResolver;
 
 add_action( 'wp_enqueue_scripts', function () {
 

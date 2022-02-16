@@ -1,6 +1,6 @@
 <?php
 
-namespace WpTailwindCssThemeBoilerplate;
+namespace twenty_four;
 
 class View {
 
